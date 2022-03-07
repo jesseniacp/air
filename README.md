@@ -321,3 +321,6 @@ plt.title("TEMPERATURA DE VIENTO/ENERO 2020",size=20)
 
 plt.show()
 ```
+-Imagen
+ ![Temperatura de Aire/Enero2020](https://github.com/jesseniacp/air/blob/main/temperaturaenero.jpeg)
+
